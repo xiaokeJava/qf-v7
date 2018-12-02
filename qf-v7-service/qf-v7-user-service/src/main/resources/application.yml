@@ -1,0 +1,22 @@
+spring:
+  rabbitmq:
+    host: 192.168.158.128
+    port: 5672
+    username: kebi
+    password: 123456
+    virtual-host: /kebi
+  datasource:
+    url: jdbc:mysql://localhost:3306/qf-v6?serverTimezone=GMT%2B8
+    username: root
+    password: 123
+    driver-class-name: com.mysql.jdbc.Driver
+  mail:
+    host: smtp.163.com
+    username: 13970560240@163.com
+    password: aixiaoke0801
+    default-encoding: UTF-8
+server:
+  port: 8004
+mail:
+  fromAddress: 13970560240@163.com
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-basic/qf-v6-sms/qf-v6-sms.iml" filepath="$PROJECT_DIR$/qf-v7-basic/qf-v6-sms/qf-v6-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7.iml" filepath="$PROJECT_DIR$/qf-v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-web/qf-v7-background/qf-v7-background.iml" filepath="$PROJECT_DIR$/qf-v7-web/qf-v7-background/qf-v7-background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-basic/qf-v7-basic.iml" filepath="$PROJECT_DIR$/qf-v7-basic/qf-v7-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-basic/qf-v7-commons/qf-v7-commons.iml" filepath="$PROJECT_DIR$/qf-v7-basic/qf-v7-commons/qf-v7-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-basic/qf-v7-entity/qf-v7-entity.iml" filepath="$PROJECT_DIR$/qf-v7-basic/qf-v7-entity/qf-v7-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-web/qf-v7-index/qf-v7-index.iml" filepath="$PROJECT_DIR$/qf-v7-web/qf-v7-index/qf-v7-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-interface/qf-v7-interface.iml" filepath="$PROJECT_DIR$/qf-v7-interface/qf-v7-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-interface/qf-v7-item-interfaces/qf-v7-item-interfaces.iml" filepath="$PROJECT_DIR$/qf-v7-interface/qf-v7-item-interfaces/qf-v7-item-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-service/qf-v7-item-service/qf-v7-item-service.iml" filepath="$PROJECT_DIR$/qf-v7-service/qf-v7-item-service/qf-v7-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-basic/qf-v7-mapper/qf-v7-mapper.iml" filepath="$PROJECT_DIR$/qf-v7-basic/qf-v7-mapper/qf-v7-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-interface/qf-v7-product-interface/qf-v7-product-interface.iml" filepath="$PROJECT_DIR$/qf-v7-interface/qf-v7-product-interface/qf-v7-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-service/qf-v7-products-service/qf-v7-products-service.iml" filepath="$PROJECT_DIR$/qf-v7-service/qf-v7-products-service/qf-v7-products-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-web/qf-v7-search/qf-v7-search.iml" filepath="$PROJECT_DIR$/qf-v7-web/qf-v7-search/qf-v7-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-interface/qf-v7-search-interfaces/qf-v7-search-interfaces.iml" filepath="$PROJECT_DIR$/qf-v7-interface/qf-v7-search-interfaces/qf-v7-search-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-service/qf-v7-search-service/qf-v7-search-service.iml" filepath="$PROJECT_DIR$/qf-v7-service/qf-v7-search-service/qf-v7-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-service/qf-v7-service.iml" filepath="$PROJECT_DIR$/qf-v7-service/qf-v7-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-web/qf-v7-sso/qf-v7-sso.iml" filepath="$PROJECT_DIR$/qf-v7-web/qf-v7-sso/qf-v7-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-web/qf-v7-user/qf-v7-user.iml" filepath="$PROJECT_DIR$/qf-v7-web/qf-v7-user/qf-v7-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-interface/qf-v7-user-interfaces/qf-v7-user-interfaces.iml" filepath="$PROJECT_DIR$/qf-v7-interface/qf-v7-user-interfaces/qf-v7-user-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-service/qf-v7-user-service/qf-v7-user-service.iml" filepath="$PROJECT_DIR$/qf-v7-service/qf-v7-user-service/qf-v7-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-v7-web/qf-v7-web.iml" filepath="$PROJECT_DIR$/qf-v7-web/qf-v7-web.iml" />
+    </modules>
+  </component>
+</project>

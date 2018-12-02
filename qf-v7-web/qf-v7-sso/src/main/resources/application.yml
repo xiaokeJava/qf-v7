@@ -1,0 +1,11 @@
+spring:
+  redis:
+    host: 192.168.158.128
+    port: 6379
+    password: java1805
+    jedis:
+      pool:
+        max-active: 88
+
+server:
+  port: 7005

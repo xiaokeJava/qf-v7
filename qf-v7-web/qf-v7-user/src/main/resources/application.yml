@@ -1,0 +1,10 @@
+server:
+  port: 7004
+
+spring:
+  rabbitmq:
+    host: 192.168.158.128
+    port: 5672
+    username: kebi
+    password: 123456
+    virtual-host: /kebi

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qf-v6-sms" />
+        <module name="qf-v7-background" />
+        <module name="qf-v7-commons" />
+        <module name="qf-v7-entity" />
+        <module name="qf-v7-index" />
+        <module name="qf-v7-item-interfaces" />
+        <module name="qf-v7-item-service" />
+        <module name="qf-v7-mapper" />
+        <module name="qf-v7-product-interface" />
+        <module name="qf-v7-products-service" />
+        <module name="qf-v7-search" />
+        <module name="qf-v7-search-interfaces" />
+        <module name="qf-v7-search-service" />
+        <module name="qf-v7-service" />
+        <module name="qf-v7-sso" />
+        <module name="qf-v7-user" />
+        <module name="qf-v7-user-interfaces" />
+        <module name="qf-v7-user-service" />
+        <module name="qf-v7-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qf-v6-basic" target="1.5" />
+      <module name="qf-v6-sms" target="1.8" />
+      <module name="qf-v7" target="1.5" />
+      <module name="qf-v7-background" target="1.8" />
+      <module name="qf-v7-basic" target="1.5" />
+      <module name="qf-v7-commons" target="1.5" />
+      <module name="qf-v7-entity" target="1.5" />
+      <module name="qf-v7-index" target="1.8" />
+      <module name="qf-v7-interface" target="1.5" />
+      <module name="qf-v7-item-interfaces" target="1.5" />
+      <module name="qf-v7-item-service" target="1.8" />
+      <module name="qf-v7-mapper" target="1.8" />
+      <module name="qf-v7-product-interface" target="1.8" />
+      <module name="qf-v7-product-service" target="1.8" />
+      <module name="qf-v7-products-service" target="1.8" />
+      <module name="qf-v7-search" target="1.8" />
+      <module name="qf-v7-search-interfaces" target="1.5" />
+      <module name="qf-v7-search-service" target="1.8" />
+      <module name="qf-v7-service" target="1.5" />
+      <module name="qf-v7-sso" target="1.8" />
+      <module name="qf-v7-sso-service" target="1.8" />
+      <module name="qf-v7-user" target="1.8" />
+      <module name="qf-v7-user-interfaces" target="1.5" />
+      <module name="qf-v7-user-service" target="1.8" />
+      <module name="qf-v7-userservice" target="1.5" />
+      <module name="qf-v7-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

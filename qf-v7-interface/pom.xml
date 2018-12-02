@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.qianfeng</groupId>
+    <artifactId>qf-v7-interface</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>qf-v7-product-interface</module>
+        <module>qf-v7-search-interfaces</module>
+        <module>qf-v7-item-interfaces</module>
+        <module>qf-v7-userservice</module>
+        <module>qf-v7-user-interfaces</module>
+    </modules>
+
+
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--1.给应用取个名字-->
+    <dubbo:application name="v7-searchServiceImpl"/>
+    <!--2,配置注册中心-->
+    <!--<dubbo:registry protocol="zookeeper" address="139.199.155.196:2181"/>-->
+    <dubbo:registry protocol="zookeeper" address="192.168.158.128:2181"/>
+    <!--3,服务暴露的端口-->
+    <dubbo:protocol port="20803"/>
+    <!--4,配置实现bean-->
+    <bean class="com.qianfeng.qf.v7.search.service.impl.SearchServiceImpl" id="searchService"/>
+    <!--5,发布服务-->
+    <dubbo:service interface="com.qianfeng.search.interfaces.ISearchService" ref="searchService"/>
+
+</beans>
